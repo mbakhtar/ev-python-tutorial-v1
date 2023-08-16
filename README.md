@@ -5,7 +5,7 @@
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [EV Obstacle Avoidance Python Tutorial v1](https://makecode.microbit.org/#tutorial:github:mbakhtar/ev-python-tutorial-v1/ev-obstacle-py)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/mbakhtar/ev-python-tutorial-v1** and import
