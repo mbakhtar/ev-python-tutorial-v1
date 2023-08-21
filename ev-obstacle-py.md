@@ -32,6 +32,7 @@ fwdMotors.servo1,
 ## Step 6
 Change the ``||fwdMotors:right motor to servo2||``. 
 Keep the ``||fwdMotors: left motor to servo1||``. Also set ``||fwdMotors:bias to 0||``.
+[changing-servo-bias](https://mbakhtar.github.io/ev-python-tutorial-v1/setup-driving-py.gif)
 ```spy
 fwdMotors.setupDriving(
 fwdMotors.servo1,
